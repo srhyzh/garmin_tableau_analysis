@@ -33,7 +33,7 @@ Examples include:
 
 ## Dashboard
 
-![Garmin Fitness Dashboard](Dashboard Garmin Acitivities.png)
+![Garmin Fitness Dashboard](Dashboard Garmin Activities.png)
 
 The main dashboard provides an overview of my training activity and includes:
 
